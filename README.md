@@ -11,4 +11,6 @@ Notes persist after you have reloaded the browser.
 
  deployed- https://blooming-scrubland-51650.herokuapp.com/  (not working correctly)
  
+ Heroku ip mismatch, possible work computer proxy issue? (from TA..)
+ 
  GitHub repo- https://github.com/Gtimed61/take-notes.git
