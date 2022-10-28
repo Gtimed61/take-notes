@@ -10,4 +10,5 @@ Notes persist after you have reloaded the browser.
 ![notetaker-notes](https://user-images.githubusercontent.com/36940571/198494223-7d32cbad-f941-4ec4-9a3d-6272e1845a95.GIF)
 
  deployed- https://blooming-scrubland-51650.herokuapp.com/  (not working correctly)
+ 
  GitHub repo- https://github.com/Gtimed61/take-notes.git
